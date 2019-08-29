@@ -1,0 +1,42 @@
+body {
+  background-color: #2b2b2b;
+}
+h1 {
+  color: blue;
+}
+a {
+  color: #E8E2E2;
+}
+
+.parent {
+	
+}
+
+.child {
+	margin-top: 250px;
+	margin-left: 133px;
+}
+
+#name {
+	color: darkorange;
+	font-size: 81px;
+	font-family: Lato;
+}
+
+#exp {
+	color: #f8f6ee;
+	font-size: 41px;
+	font-family: Lato;
+}
+
+#info {
+	color: #E8E2E2;
+	font-size: 31px;
+	font-family: Lato;
+	padding-top: 15px;
+}
+
+#info .icon {
+	font-size: 32px;
+	margin-right: 20px;
+}
